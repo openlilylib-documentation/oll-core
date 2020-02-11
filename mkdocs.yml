@@ -7,8 +7,8 @@ site_name: 'oll-core'
 theme:
   name: 'material'
   palette:
-    primary: 'Brown'
-    accent: 'Amber'
+    primary: 'Blue Grey'
+    accent: 'Blue Grey'
   logo:
     icon: 'music_note'
   feature:
@@ -34,9 +34,8 @@ site_dir: '../../docs/oll-core'
 
 nav:
 - Home:
+  - Main Book: ../index.html
   - Home: index.md
   - Packages:
-    - Main Book: ../index.html
-    - notation-fonts: ../notation-fonts/index.html
     - '[oll-core]': ../oll-core/index.html
     - scholarLY: ../scholarly/index.html
