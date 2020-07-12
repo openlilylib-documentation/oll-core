@@ -1,1 +1,8 @@
 - 'Home': 'index.md'
+- 'High-level Functionality':
+  - 'Options':
+    - 'Overview': 'options/index.md'
+  - 'Properties':
+    - 'Overview': 'properties/index.md'
+  - 'Logging':
+    - 'Overview': 'logging/index.md'
